@@ -1,4 +1,3 @@
-import _ from 'lodash';
 import p5 from 'p5';
 
 const newSketch = () => {
